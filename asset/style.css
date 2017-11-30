@@ -1,0 +1,21 @@
+.test {
+  display: inline-block;
+  border: 1px solid gray;
+  padding: 10px;
+  text-decoration: none;
+}
+
+body {
+  background-color: lightgray;
+  margin: 30px;
+  text-align: center;
+  font-size: 28px;
+}
+
+label {
+  font-size: 22px;
+}
+
+input {
+  height: 30px;
+}
